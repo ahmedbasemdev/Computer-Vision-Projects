@@ -1,3 +1,4 @@
 dnn_model
 *.mp4
 *.weights
+*.pt
